@@ -1,0 +1,6 @@
+class power:
+    def func(x,n):
+        return pow(x,n)
+print(power.func(10,2))
+
+output: 100
